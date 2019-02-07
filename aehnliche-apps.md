@@ -6,3 +6,5 @@
 * [easyGO](https://www.myeasygo.de/home.html) Fahrplanauskunft + Ticketkauf + Sehbehindertenansicht + POI
 * [Magic Earth](https://www.generalmagic.com/magic-earth/transit/) Crowdsourced Car Navigation + 3D Karten + POI + Rollstuhlgerecht + Satellitenkarten
 
+# City Apps
+* [Mapstr](https://mapstr.com/) Favoritenorte speichern u. teilen + Routing von zB Citymapper
