@@ -1,0 +1,19 @@
+tag shop=deli
+iname Vom Fass
+
+tag shop=deli
+inamec oil
+inamec vinegar
+
+tag shop=supermarket
+inamec oil
+inamec vinegar
+
+tag shop=supermarket
+name Original Unverpackt
+
+tag shop=supermarket
+inamec sirplus
+
+tag shop=convenience
+inamec sirplus

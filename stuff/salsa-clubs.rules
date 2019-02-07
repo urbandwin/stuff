@@ -1,0 +1,24 @@
+tag amenity=nightclub
+inamec soda
+
+tag amenity=nightclub
+inamec havanna
+
+tag amenity=nightclub
+inamec Clärchens Ballhaus
+
+tag amenity=restaurant
+inamec MIO Restaurant
+
+tag amenity=nightclub
+inamec Marie-Antoinette
+
+tag leisure=dance
+name MiSalsa
+
+# Pfefferberg Haus 13
+# Strandbad Plötzensee
+# Zapatissimo
+# Mila Kaffehaus
+# bebop
+# Kubata
