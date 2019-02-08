@@ -8,9 +8,6 @@
 * Add links to amenity=doctors, amenity=dentist and office=lawyer
 * Street database, flat street view with things along it
 * Key-Histogram and Tag-Histogram based on search results
-* Alles vom
-  [VBB](https://www.vbb.de/unsere-themen/vbbdigital/api-entwicklerinfos),
-  insbesondere auch Fahrstuhlinfo
 
 ## Categories
 
