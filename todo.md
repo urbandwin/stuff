@@ -1,15 +1,32 @@
 # Todo list
 
+## Misc
+
+* Admin page
+* Tools for updating data from [[@github(urbandwin, stuff)]]
+
+## Things along
+
+* Make distance configurable
+* Add more object categories
+* Add bus and tram routes
+* Flat street view with things along it
+
+## OpenStreetMap
+
+### Misc
+
 * There's a Metro in Berlin with shop=wholesale
 * Add link to this somewhere:
   [https://wiki.openstreetmap.org/wiki/DE:Unternehmensketten](https://wiki.openstreetmap.org/wiki/DE:Unternehmensketten)
-* Add page for each line with museums in vicinity (configurable distance and
-  object type)
 * Add links to amenity=doctors, amenity=dentist and office=lawyer
-* Street database, flat street view with things along it
+
+### Search
+
+* Street search
 * Key-Histogram and Tag-Histogram based on search results
 
-## Categories
+### Categories
 
 * [Supermärkte](/things/supermarkets)
 * [Drogerien](/things/drogerien)
@@ -21,7 +38,7 @@
 * Eisbahnen
 * [Baumärkte](/things/baumärkte)
 
-## Standardisierte Sachen
+### Standardisierte Sachen
 
 * Apotheken
 * Geldautomaten / Banken
