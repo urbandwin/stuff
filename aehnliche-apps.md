@@ -9,3 +9,6 @@
 
 # City Apps
 * [Mapstr](https://mapstr.com/) Favoritenorte speichern u. teilen + Routing von zB Citymapper
+
+# Special Interest Berlin
+* [Berlin Vegan Guide](https://www.berlin-vegan.de/bv-guide/) App und Map
