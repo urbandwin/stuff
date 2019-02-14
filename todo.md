@@ -4,6 +4,7 @@
 
 * Admin page
 * Tools for updating data from [[@github(urbandwin, stuff)]]
+* compare data sources from osm vs other source (vegan maps)
 
 ## Things along
 
