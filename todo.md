@@ -8,10 +8,12 @@
 ## Things along
 
 * Make distance configurable
-* Add more object categories
+* Add more object categories (Imbiss, Restaurant)
 * Add bus and tram routes
 * Flat street view with things along it
 * Show geografical lines with things along on map
+* Show food stuff that is open now
+* Show piece of map from each POI (beim Mauszeiger drüberhalten)
 
 ## OpenStreetMap
 
