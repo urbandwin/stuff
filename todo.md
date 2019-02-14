@@ -11,6 +11,7 @@
 * Add more object categories
 * Add bus and tram routes
 * Flat street view with things along it
+* Show geografical lines with things along on map
 
 ## OpenStreetMap
 
