@@ -16,3 +16,6 @@
 * [Berlin Vegan Guide](https://www.berlin-vegan.de/bv-guide/) App und Map
 * [OpenVegeMap](https://openvegemap.netlib.re/#zoom=13&lat=52.5156&lon=13.3968) OSM Daten
 * [Peta Zwei Einkaufsguide](https://www.petazwei.de/einkaufsguide) Bilder von Community gepflegt +  Suche nach Produkt ODER Markt - keine Map
+
+# Blogs
+* [Satt und froh](https://sattundfroh.de) Restaurant-Blog
