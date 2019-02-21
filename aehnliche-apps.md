@@ -21,6 +21,7 @@
 * [Satt und froh](https://sattundfroh.de) Restaurant-Blog
 * [Berlin ick liebe dir](https://berlin-ick-liebe-dir.de/) Beschreibungen zu Food, Drink, Shopping, Events - wenig Daten, teils ohne Öffnungszeiten, Link, Adresse via googlemap
 * [Berlin Food Stories](https://berlinfoodstories.com/map-2) Swedischer Foodblogger - Restaurants auf googlemap + Top Listen zu vielen Kategorien + Texte in english
+* [Weddingweiser](https://weddingweiser.de/2019/01/01/7-tage-programm-im-wedding/) Vor allem Essen und Trinken + OSM falls vorhanden + 7 Tage Schedule
 
 # Sonstige
 * [Wer kennt den BESTEN](https://www.werkenntdenbesten.de/) Gesammelte Bewertungen aus verschiedenen Portalen + OSM, aber nur als Map ohne Daten + Teilweise mit Beschreibungstext, Öffnungszeiten, Webseite
