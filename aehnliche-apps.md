@@ -24,3 +24,4 @@
 
 # Sonstige
 * [Wer kennt den BESTEN](https://www.werkenntdenbesten.de/) Gesammelte Bewertungen aus verschiedenen Portalen + OSM, aber nur als Map ohne Daten + Teilweise mit Beschreibungstext, Öffnungszeiten, Webseite
+* [Quiez](https://www.qiez.de/marktplatz/) Stadtmagazin mit Texten und Bildern zu diversen Kategorien + Neueröffnungen + Branchenverzeichnis + OSM, aber nur als Map ohne Daten
