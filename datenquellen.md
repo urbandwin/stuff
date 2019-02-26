@@ -21,7 +21,7 @@ Davon Nachbarschaftsnetzwerke:
 
 ## Konzerte / Tickets
 * [Eventim](https://www.eventim.de)
-* [Songkick](https://www.songkick.com) (Berlin)
+* [Songkick](https://www.songkick.com)
 * [Ticketmaster](https://www.ticketmaster.de) auch Freizeit, Sport, Ausstellungen etc
 * [JugendKulturService](https://jugendkulturservice.de/de/konzerte/) (Berlin) auch für Kino + eigener Ticketshop
 * [Myticket](https://www.myticket.de)
@@ -47,4 +47,3 @@ Davon Nachbarschaftsnetzwerke:
 ## Familien (Berlin)
 * Spielplätze, familienfreundliche Cafes, Events und Orte für Kinder, Kitas
 * [Berlin mit Kind](https://berlinmitkind.de/) auch für München
-* 
