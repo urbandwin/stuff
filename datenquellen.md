@@ -20,9 +20,9 @@ Davon Nachbarschaftsnetzwerke:
 * [WirvonHier](https://wirvonhier.de) Treffen und Events, auch Marktplatz
 
 ## Konzerte / Tickets
-* [Eventim]
-* [Songkick]
-* [Ticketmaster]
+* [Eventim](https://www.eventim.de)
+* [Songkick](https://www.songkick.de)
+* [Ticketmaster](https://www.ticketmaster.de)
 * [JugendKulturService](https://jugendkulturservice.de/de/konzerte/) (Berlin) auch für Kino + eigener Ticketshop
 * [Myticket](https://www.myticket.de)
 * [KoKa36](https://www.koka36.de/) (mostly Berlin) auch tickets für Shows und Zirkus
