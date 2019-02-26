@@ -11,7 +11,7 @@
 * [Kleinanzeigen Focus](https://kleinanzeige.focus.de/)
 * [Kalaydo](https://www.kalaydo.de/)
 * [Deine Kleinanzeigenwelt DHD24](https://www.dhd24.com) wenige Inserate
-* [You Markt](htt]ps://youmarkt.de/) sehr wenige Inserate
+* [You Markt](https://youmarkt.de/) sehr wenige Inserate
 * [Locanto](https://www.locanto.de/) Inhaber hat zwei weitere Portale Yalwa und askalo https://www.yalwa.info/de//
 
 Davon Nachbarschaftsnetzwerke:
