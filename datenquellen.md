@@ -1,9 +1,9 @@
 # Datenquellen
 
-# Essen / Restaurants
+## Essen / Restaurants
 * Restaurantbewertungen, Foodblogs, vegane Restaurants, Online-Lieferung, Imbiss mit Öffnungszeiten nachts
 
-# Kleinanzeigen
+## Kleinanzeigen
 
 # Konzerte
 
