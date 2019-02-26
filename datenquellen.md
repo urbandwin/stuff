@@ -21,8 +21,8 @@ Davon Nachbarschaftsnetzwerke:
 
 ## Konzerte / Tickets
 * [Eventim](https://www.eventim.de)
-* [Songkick](https://www.songkick.de)
-* [Ticketmaster](https://www.ticketmaster.de)
+* [Songkick](https://www.songkick.com) (Berlin)
+* [Ticketmaster](https://www.ticketmaster.de) auch Freizeit, Sport, Ausstellungen etc
 * [JugendKulturService](https://jugendkulturservice.de/de/konzerte/) (Berlin) auch für Kino + eigener Ticketshop
 * [Myticket](https://www.myticket.de)
 * [KoKa36](https://www.koka36.de/) (mostly Berlin) auch tickets für Shows und Zirkus
