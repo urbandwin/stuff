@@ -14,10 +14,10 @@
 * [You Markt](https://youmarkt.de/) sehr wenige Inserate
 * [Locanto](https://www.locanto.de/) Inhaber hat zwei weitere Portale Yalwa und askalo https://www.yalwa.info/de//
 
+## Nachbarschaftsnetzwerke
 * [nebenan](https://nebenan.de) 
 * [Nachbarschaft](https://nachbarschaft.net/) auch als App, eher für Treffen und Veranstaltungen
 * [WirvonHier](https://wirvonhier.de) Treffen und Events, auch Marktplatz
-
 
 ## Konzerte
 * [Eventim]
