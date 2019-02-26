@@ -3,7 +3,7 @@
 ## Essen / Restaurants
 * Restaurantbewertungen, Foodblogs, vegane Restaurants, Online-Lieferung, Imbiss mit Öffnungszeiten nachts
 
-## Kleinanzeigen
+## Kleinanzeigen / Nachbarschaft
 * [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
 * [Quoka](https://www.quoka.de/)
 * [Markt.de](https://www.markt.[Sde/)
@@ -23,7 +23,11 @@ Davon Nachbarschaftsnetzwerke:
 * [Eventim]
 * [Songkick]
 * [Ticketmaster]
-* 
+* [JugendKulturService](https://jugendkulturservice.de/de/konzerte/) (Berlin) auch für Kino + eigener Ticketshop
+* [Myticket](https://www.myticket.de)
+* [KoKa36](https://www.koka36.de/) (mostly Berlin) auch tickets für Shows und Zirkus
+* [MusikExpress](http://musikexpress.adticket.de/) Musikmagazin von Axel Springer Mediahouse, Ticketverkauf betrieben durch Adticket
+* [ADticket](https://www.adticket.de/) auch Sport und Tourismus
 
 ## Open Stage / Mic (Berlin)
 
