@@ -4,6 +4,9 @@
 * Restaurantbewertungen, Foodblogs, vegane Restaurants, Online-Lieferung, Imbiss mit Öffnungszeiten nachts
 
 ## Kleinanzeigen
+* [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
+* [Quoka](https://www.quoka.de/)
+* [Markt.de](https://www.markt.de/)
 
 ## Konzerte
 
