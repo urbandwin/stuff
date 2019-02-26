@@ -11,7 +11,7 @@
 * [Kleinanzeigen Focus](https://kleinanzeige.focus.de/)
 * [Kalaydo](https://www.kalaydo.de/)
 * [Deine Kleinanzeigenwelt DHD24](https://www.dhd24.com) wenige Inserate
-* [You Markt](https://youmarkt.de/) sehr wenige Inserate
+* [You Markt](htt]ps://youmarkt.de/) sehr wenige Inserate
 * [Locanto](https://www.locanto.de/) Inhaber hat zwei weitere Portale Yalwa und askalo https://www.yalwa.info/de//
 
 Davon Nachbarschaftsnetzwerke:
@@ -19,7 +19,7 @@ Davon Nachbarschaftsnetzwerke:
 * [Nachbarschaft](https://nachbarschaft.net/) auch als App, eher für Treffen und Veranstaltungen
 * [WirvonHier](https://wirvonhier.de) Treffen und Events, auch Marktplatz
 
-## Konzerte
+## Konzerte / Tickets
 * [Eventim]
 * [Songkick]
 * [Ticketmaster]
@@ -28,6 +28,8 @@ Davon Nachbarschaftsnetzwerke:
 * [KoKa36](https://www.koka36.de/) (mostly Berlin) auch tickets für Shows und Zirkus
 * [MusikExpress](http://musikexpress.adticket.de/) Musikmagazin von Axel Springer Mediahouse, Ticketverkauf betrieben durch Adticket
 * [ADticket](https://www.adticket.de/) auch Sport und Tourismus
+* [Zart agency](https://zart.tickettoaster.de/impressum) Agentur aus Berlin, aber Konzerte bundesweit, Tickets über die Lösung für White label Ticketing Plattformen von [Tickettoaster](https://www.tickettoaster.de)
+* [New Berlin Konzerte Events](https://berlinkonzerte.de/) Tickets über KoKa 36
 
 ## Open Stage / Mic (Berlin)
 
