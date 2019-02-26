@@ -6,7 +6,7 @@
 ## Kleinanzeigen
 * [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
 * [Quoka](https://www.quoka.de/)
-* [Markt.de](https://www.markt.de/)
+* [Markt.de](https://www.markt.[Sde/)
 * [Kleinanzeigen](https://www.kleinanzeigen.de/) wenige Inserate
 * [Kleinanzeigen Focus](https://kleinanzeige.focus.de/)
 * [Kalaydo](https://www.kalaydo.de/)
@@ -20,6 +20,10 @@
 
 
 ## Konzerte
+* [Eventim]
+* [Songkick]
+* [Ticketmaster]
+* 
 
 ## Open Stage / Mic (Berlin)
 
