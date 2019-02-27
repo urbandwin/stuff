@@ -13,15 +13,11 @@
 * [Berlin Offline Stadtplan](https://play.google.com/store/apps/details?id=com.ulmon.android.playberlinofflinemap) Favoriten speichern + OSM Daten + Hotel buchen + POI + Food + integriergar in Travel-App [CityMaps2Go](https://www.ulmon.com/)
 
 # Special Interest Berlin
-* [Berlin Vegan Guide](https://www.berlin-vegan.de/bv-guide/) App und Map
-* [OpenVegeMap](https://openvegemap.netlib.re/#zoom=13&lat=52.5156&lon=13.3968) OSM Daten
 * [Peta Zwei Einkaufsguide](https://www.petazwei.de/einkaufsguide) Bilder von Community gepflegt +  Suche nach Produkt ODER Markt - keine Map
 
 # Blogs
 * [Satt und froh](https://sattundfroh.de) Restaurant-Blog
-* [Berlin ick liebe dir](https://berlin-ick-liebe-dir.de/) Beschreibungen zu Food, Drink, Shopping, Events - wenig Daten, teils ohne Öffnungszeiten, Link, Adresse via googlemap
-* [Berlin Food Stories](https://berlinfoodstories.com/map-2) Swedischer Foodblogger - Restaurants auf googlemap + Top Listen zu vielen Kategorien + Texte in english
-* [Weddingweiser](https://weddingweiser.de/2019/01/01/7-tage-programm-im-wedding/) Vor allem Essen und Trinken + OSM falls vorhanden + 7 Tage Schedule
+
 
 # Sonstige
 * [Wer kennt den BESTEN](https://www.werkenntdenbesten.de/) Gesammelte Bewertungen aus verschiedenen Portalen + OSM, aber nur als Map ohne Daten + Teilweise mit Beschreibungstext, Öffnungszeiten, Webseite
