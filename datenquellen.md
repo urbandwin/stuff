@@ -2,6 +2,11 @@
 
 ## Essen / Restaurants
 Restaurantbewertungen, Foodblogs, vegane Restaurants, Online-Lieferung, Imbiss mit Öffnungszeiten nachts
+* [Berlin Vegan Guide](https://www.berlin-vegan.de/bv-guide/) App und Map
+* [OpenVegeMap](https://openvegemap.netlib.re/#zoom=13&lat=52.5156&lon=13.3968) OSM Daten
+* [Berlin ick liebe dir](https://berlin-ick-liebe-dir.de/) Beschreibungen zu Food, Drink, Shopping, Events - wenig Daten, teils ohne Öffnungszeiten, Link, Adresse via googlemap
+* [Berlin Food Stories](https://berlinfoodstories.com/map-2) Swedischer Foodblogger - Restaurants auf googlemap + Top Listen zu vielen Kategorien + Texte in english
+* [Weddingweiser](https://weddingweiser.de/2019/01/01/7-tage-programm-im-wedding/) Vor allem Essen und Trinken + OSM falls vorhanden + 7 Tage Schedule
 
 ## Kleinanzeigen / Nachbarschaft
 * [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
@@ -32,6 +37,9 @@ Davon Nachbarschaftsnetzwerke:
 * [New Berlin Konzerte Events](https://berlinkonzerte.de/) Tickets über KoKa 36
 
 ## Open Stage / Mic (Berlin)
+* [Berliner Sessions](https://berlinersessions.de/) keine Gesamtkarte, nur googlemap für jede Veranstaltung, keine Uhrzeit
+* [Openstages.org](http://www.openstages.org/listing.php?country=germany&city=berlin) (weltweit) nur Webseite/fb verlinkt
+* [
 
 ## Kino
 * [Kinoheld](https://www.kinoheld.de/)
@@ -41,6 +49,8 @@ Davon Nachbarschaftsnetzwerke:
 ## Veranstaltungen
 * [Meinestadt](https://home.meinestadt.de/berlin) Stadtportal für jede Stadt + Veranstaltungen, Immobilien, Jobs, Singlebörse etc
 * [Zitty](https://www.zitty.de) auch mit Kleinanzeigen
+* [iHeartBerlin](http://www.iheartberlin.de) (Berlin) Blog mit Artikeln und Veranstaltungsliste (Fb Quellen) + LGBT freundlich + auch Food Artikel - keine Karte
+* [Gratis in Berlin](https://www.gratis-in-berlin.de/) (Berlin) etliche Kategorien - keine Karte
 
 ## Sehenswürdigkeiten (Berlin)
 
