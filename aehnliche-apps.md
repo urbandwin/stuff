@@ -15,10 +15,6 @@
 # Special Interest Berlin
 * [Peta Zwei Einkaufsguide](https://www.petazwei.de/einkaufsguide) Bilder von Community gepflegt +  Suche nach Produkt ODER Markt - keine Map
 
-# Blogs
-* [Satt und froh](https://sattundfroh.de) Restaurant-Blog
-
-
 # Sonstige
 * [Wer kennt den BESTEN](https://www.werkenntdenbesten.de/) Gesammelte Bewertungen aus verschiedenen Portalen + OSM, aber nur als Map ohne Daten + Teilweise mit Beschreibungstext, Öffnungszeiten, Webseite
 * [Quiez](https://www.qiez.de/marktplatz/) Stadtmagazin mit Texten und Bildern zu diversen Kategorien + Neueröffnungen + Branchenverzeichnis + OSM, aber nur als Map ohne Daten
