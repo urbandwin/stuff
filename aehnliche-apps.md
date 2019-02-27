@@ -9,8 +9,6 @@
 
 # Berlin Apps
 * [Mapstr](https://mapstr.com/) Favoritenorte speichern u. teilen + Routing von zB Citymapper
-* [Berlin Travel Guide](https://play.google.com/store/apps/details?id=com.triposo.droidguide.berlin) POI + Food + Hotelbuchung + OSM Daten + API von [Triposo](https://www.triposo.com/)
-* [Berlin Offline Stadtplan](https://play.google.com/store/apps/details?id=com.ulmon.android.playberlinofflinemap) Favoriten speichern + OSM Daten + Hotel buchen + POI + Food + integriergar in Travel-App [CityMaps2Go](https://www.ulmon.com/)
 
 # Special Interest Berlin
 * [Peta Zwei Einkaufsguide](https://www.petazwei.de/einkaufsguide) Bilder von Community gepflegt +  Suche nach Produkt ODER Markt - keine Map
