@@ -10,6 +10,7 @@ Restaurantbewertungen, Foodblogs, vegane Restaurants, Online-Lieferung, Imbiss m
 * [Foursquare](https://de.foursquare.com) OSM, aber nur Karte ohne Daten
 * [Yelp](https://www.yelp.de) Food + Branchenbuch-Kategorien
 * [Restaurant Ranglisten](https://www.restaurant-ranglisten.de/restaurants/ranglisten/deutschland/berlin/berlin-city/berlin/) Spitzenrestaurants mit Bewertungen
+* [Satt und froh](https://sattundfroh.de) Restaurant-Blog
 
 ## Kleinanzeigen / Nachbarschaft
 * [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
