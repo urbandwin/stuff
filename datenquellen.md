@@ -63,6 +63,7 @@ Davon Nachbarschaftsnetzwerke:
 * [Gratis in Berlin](https://www.gratis-in-berlin.de/) (Berlin) etliche Kategorien - keine Karte
 * [Eventbrite](https://www.eventbrite.de) auch Open Stage
 * [Meetup](https://www.meetup.com/de-DE/)
+* [WasGehtApp](https://www.wasgehtapp.de)
 
 ## Sehenswürdigkeiten (Berlin)
 
