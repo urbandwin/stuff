@@ -27,6 +27,7 @@ Davon Nachbarschaftsnetzwerke:
 * [nebenan](https://nebenan.de) 
 * [Nachbarschaft](https://nachbarschaft.net/) auch als App, eher für Treffen und Veranstaltungen
 * [WirvonHier](https://wirvonhier.de) Treffen und Events, auch Marktplatz
+* [Nextdoor](https://nextdoor.de/) weltweit, aus den USA
 
 ## Konzerte / Tickets
 * [Eventim](https://www.eventim.de)
