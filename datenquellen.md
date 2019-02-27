@@ -5,8 +5,9 @@ Restaurantbewertungen, Foodblogs, vegane Restaurants, Online-Lieferung, Imbiss m
 * [Berlin Vegan Guide](https://www.berlin-vegan.de/bv-guide/) App und Map
 * [OpenVegeMap](https://openvegemap.netlib.re/#zoom=13&lat=52.5156&lon=13.3968) OSM Daten
 * [Berlin ick liebe dir](https://berlin-ick-liebe-dir.de/) Beschreibungen zu Food, Drink, Shopping, Events - wenig Daten, teils ohne Öffnungszeiten, Link, Adresse via googlemap
-* [Berlin Food Stories](https://berlinfoodstories.com/map-2) Swedischer Foodblogger - Restaurants auf googlemap + Top Listen zu vielen Kategorien + Texte in english
+* [Berlin Food Stories](https://berlinfoodstories.com/map-2) Schwedischer Foodblogger - Restaurants auf googlemap + Top Listen zu vielen Kategorien + Texte in english
 * [Weddingweiser](https://weddingweiser.de/2019/01/01/7-tage-programm-im-wedding/) Vor allem Essen und Trinken + OSM falls vorhanden + 7 Tage Schedule
+* [Foursquare](https://de.foursquare.com) OSM, aber nur Karte ohne Daten
 
 ## Kleinanzeigen / Nachbarschaft
 * [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
