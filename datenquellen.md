@@ -40,7 +40,6 @@ Davon Nachbarschaftsnetzwerke:
 ## Open Stage / Mic (Berlin)
 * [Berliner Sessions](https://berlinersessions.de/) keine Gesamtkarte, nur googlemap für jede Veranstaltung, keine Uhrzeit
 * [Openstages.org](http://www.openstages.org/listing.php?country=germany&city=berlin) (weltweit) nur Webseite/fb verlinkt
-* [
 
 ## Kino
 * [Kinoheld](https://www.kinoheld.de/)
