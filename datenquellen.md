@@ -8,6 +8,8 @@ Restaurantbewertungen, Foodblogs, vegane Restaurants, Online-Lieferung, Imbiss m
 * [Berlin Food Stories](https://berlinfoodstories.com/map-2) Schwedischer Foodblogger - Restaurants auf googlemap + Top Listen zu vielen Kategorien + Texte in english
 * [Weddingweiser](https://weddingweiser.de/2019/01/01/7-tage-programm-im-wedding/) Vor allem Essen und Trinken + OSM falls vorhanden + 7 Tage Schedule
 * [Foursquare](https://de.foursquare.com) OSM, aber nur Karte ohne Daten
+* [Yelp](https://www.yelp.de) Food + Branchenbuch-Kategorien
+* [Restaurant Ranglisten](https://www.restaurant-ranglisten.de/restaurants/ranglisten/deutschland/berlin/berlin-city/berlin/) Spitzenrestaurants mit Bewertungen
 
 ## Kleinanzeigen / Nachbarschaft
 * [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
