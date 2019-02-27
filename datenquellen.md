@@ -52,6 +52,8 @@ Davon Nachbarschaftsnetzwerke:
 * [Zitty](https://www.zitty.de) auch mit Kleinanzeigen
 * [iHeartBerlin](http://www.iheartberlin.de) (Berlin) Blog mit Artikeln und Veranstaltungsliste (Fb Quellen) + LGBT freundlich + auch Food Artikel - keine Karte
 * [Gratis in Berlin](https://www.gratis-in-berlin.de/) (Berlin) etliche Kategorien - keine Karte
+* [Eventbrite](https://www.eventbrite.de) auch Open Stage
+* [Meetup](https://www.meetup.com/de-DE/)
 
 ## Sehenswürdigkeiten (Berlin)
 
