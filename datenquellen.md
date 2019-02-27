@@ -1,7 +1,7 @@
 # Datenquellen
 
 ## Essen / Restaurants
-* Restaurantbewertungen, Foodblogs, vegane Restaurants, Online-Lieferung, Imbiss mit Öffnungszeiten nachts
+Restaurantbewertungen, Foodblogs, vegane Restaurants, Online-Lieferung, Imbiss mit Öffnungszeiten nachts
 
 ## Kleinanzeigen / Nachbarschaft
 * [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
@@ -45,5 +45,5 @@ Davon Nachbarschaftsnetzwerke:
 ## Sehenswürdigkeiten (Berlin)
 
 ## Familien (Berlin)
-* Spielplätze, familienfreundliche Cafes, Events und Orte für Kinder, Kitas
+Spielplätze, familienfreundliche Cafes, Events und Orte für Kinder, Kitas
 * [Berlin mit Kind](https://berlinmitkind.de/) auch für München
