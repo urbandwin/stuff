@@ -46,6 +46,10 @@ Davon Nachbarschaftsnetzwerke:
 
 ## Kino
 * [Kinoheld](https://www.kinoheld.de/)
+* [DeinKinoticket](https://deinkinoticket.de) Ticketbuchung über Kinoheld
+* [Indie Kino](https://www.indiekino.de/) (Berlin) Kinomagazin und Programm für Arthouse und Multiplex
+* [Kino & Co](http://www.kinoundco.de) Kinofilme, Ranking und Filmnews
+* [Kino.de](https://www.kino.de)
 
 ## Behörden / Verwaltung
 
