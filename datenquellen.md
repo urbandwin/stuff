@@ -35,6 +35,7 @@ Davon Nachbarschaftsnetzwerke:
 * [ADticket](https://www.adticket.de/) auch Sport und Tourismus
 * [Zart agency](https://zart.tickettoaster.de/impressum) Agentur aus Berlin, aber Konzerte bundesweit, Tickets über die Lösung für White label Ticketing Plattformen von [Tickettoaster](https://www.tickettoaster.de)
 * [New Berlin Konzerte Events](https://berlinkonzerte.de/) Tickets über KoKa 36
+* [HEKTICKET](https://www.hekticket.de) Sitz in Berlin, bundesweites Ticketangebot. [Tip Berlin](https://www.hekticket.de/tip/.bin/index.cgi) Tickets sind powerded by HEKTicket
 
 ## Open Stage / Mic (Berlin)
 * [Berliner Sessions](https://berlinersessions.de/) keine Gesamtkarte, nur googlemap für jede Veranstaltung, keine Uhrzeit
