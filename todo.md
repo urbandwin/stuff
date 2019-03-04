@@ -3,7 +3,11 @@
 ## Misc
 
 * Admin page
-* Tools for updating data from [[@github(urbandwin, stuff)]]
+    * Tools for updating data from [[@github(urbandwin, stuff)]]
+      (kind of done via refresh page)
+    * admin-only content
+* Accounts / login
+    * for personalized content (favorite stations, lists of things, bookmarks, etc.)
 * compare data sources from osm vs other source (vegan maps)
 
 ## Things along
@@ -12,7 +16,7 @@
 * Add more object categories (Imbiss, Restaurant)
 * Add bus and tram routes
 * Flat street view with things along it
-* Show geografical lines with things along on map
+* Show geographical lines with things along on map
 * Show food stuff that is open now
 * Show piece of map from each POI (beim Mauszeiger drüberhalten)
 
@@ -35,7 +39,7 @@
 * [Supermärkte](/things/supermarkets)
 * [Drogerien](/things/drogerien)
 * Einkaufsmöglichkeiten / Einzelhandel
-* Geldautomaten / Banken
+* [Geldautomaten](/things/atms) / [Banken](/things/banks)
 * [Bibliotheken](/things/libraries)
 * Schwimmbäder / Badestellen / Freibäder
 * [Museen](/things/museums)
@@ -44,11 +48,9 @@
 
 ### Standardisierte Sachen
 
-* Apotheken
-* Geldautomaten / Banken
-* Supermärkte / Drogerien
-* Bäckereien
-* H&M's, C&A's etc.
+* [Apotheken](/tag/amenity/pharmacy)
+* [Bäckereien](/tag/shop/bakery)
+* Fashion chains: H&M's, C&A's etc.
 
 ## Other data sources
 
