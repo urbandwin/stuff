@@ -77,3 +77,8 @@ Spielplätze, familienfreundliche Cafes, Events und Orte für Kinder, Kitas
 * [Berlin Travel Guide](https://play.google.com/store/apps/details?id=com.triposo.droidguide.berlin) POI + Food + Hotelbuchung + OSM Daten + API von [Triposo](https://www.triposo.com/)
 * [Berlin Offline Stadtplan](https://play.google.com/store/apps/details?id=com.ulmon.android.playberlinofflinemap) Favoriten speichern + OSM Daten + Hotel buchen + POI + Food + integriergar in Travel-App [CityMaps2Go](https://www.ulmon.com/)
 
+## Botschaften
+* [Australien](https://germany.embassy.gov.au/belngerman/events.html) Veranstaltungen in der Botschaft und anderswo
+* [Nordische Länder, Felleshus](http://www.nordischebotschaften.org/) Veranstaltungen und Kantine
+* [Indien](https://indianembassyberlin.gov.in/UpcomingEvents) Veranstaltungen in der Botschaft
+bis Uganda recherchiert
