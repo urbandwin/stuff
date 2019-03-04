@@ -19,9 +19,24 @@ name MiSalsa
 tag amenity=nightclub
 name MiSalsa
 
-# Pfefferberg Haus 13
+tag leisure=dance
+inamec Tanzschule Bebop
+
+tag amenity=cafe
+inamec kaffeehaus mila
+
+tag leisure=dance
+inamec Mambita
+
+tag leisure=dance
+inamec Mambita Etage
+
+tag addr:housename=Haus 13
+tag building=commercial
+
+tag club=culture
+inamec Kubata
+
 # Strandbad Plötzensee
 # Zapatissimo
-# Mila Kaffehaus
-# bebop
-# Kubata
+
