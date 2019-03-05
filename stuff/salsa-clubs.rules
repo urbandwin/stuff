@@ -1,17 +1,21 @@
 tag amenity=nightclub
 inamec soda
+# Unterricht und Party, donnerstags, sonntags
 
 tag amenity=nightclub
 inamec havanna
+# mittwochs
 
 tag amenity=nightclub
 inamec Clärchens Ballhaus
+# montags
 
 tag amenity=restaurant
 inamec MIO Restaurant
 
 tag amenity=nightclub
 inamec Marie-Antoinette
+# Party, 1. Dienstag im Monat
 
 tag leisure=dance
 name MiSalsa
@@ -21,22 +25,43 @@ name MiSalsa
 
 tag leisure=dance
 inamec Tanzschule Bebop
+# Party, freitags
 
 tag amenity=cafe
 inamec kaffeehaus mila
+# Konzert, dienstags unregelmäßig
+
+tag amenity=bar
+inamec Else
+# Party, mittwochs, im Sommer
+
+tag natural=beach
+inamec Freibad Plötzensee
+# eigentlich Strandbad Plötzensee
 
 tag leisure=dance
 inamec Mambita
+# Salsa Pa Ti, sonntags
 
 tag leisure=dance
 inamec Mambita Etage
 
 tag addr:housename=Haus 13
 tag building=commercial
+# Konzert, freitags, monatlich
 
 tag club=culture
 inamec Kubata
 
-# Strandbad Plötzensee
+tag amenity=theatre
+inamec Theater Artenschutz
+# Konzert, unregelmäßig
+
+tag natural=beach
+inamec Freibad Plötzensee
+# eigentlich Strandbad Plötzensee
+
+
+
 # Zapatissimo
 
