@@ -44,9 +44,6 @@ tag leisure=dance
 inamec Mambita
 # Salsa Pa Ti, sonntags
 
-tag leisure=dance
-inamec Mambita Etage
-
 tag addr:housename=Haus 13
 tag building=commercial
 # Konzert, 1. Samstag im Monat
