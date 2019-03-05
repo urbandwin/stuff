@@ -12,6 +12,7 @@ inamec Clärchens Ballhaus
 
 tag amenity=restaurant
 inamec MIO Restaurant
+# dienstags, Salsa und Bachata, demnächst in Udon&Gyoza laut meetup Gruppe
 
 tag amenity=nightclub
 inamec Marie-Antoinette
@@ -29,7 +30,7 @@ inamec Tanzschule Bebop
 
 tag amenity=cafe
 inamec kaffeehaus mila
-# Konzert, dienstags unregelmäßig
+# Konzert, donnerstags unregelmäßig
 
 tag amenity=bar
 inamec Else
@@ -48,10 +49,11 @@ inamec Mambita Etage
 
 tag addr:housename=Haus 13
 tag building=commercial
-# Konzert, freitags, monatlich
+# Konzert, 1. Samstag im Monat
 
 tag club=culture
 inamec Kubata
+# Party, freitags
 
 tag amenity=theatre
 inamec Theater Artenschutz
