@@ -13,3 +13,16 @@ inamec Zeller Tanz
 tag shop=dance
 inamec maison de la
 
+tag shop=shoes
+inamec Tanzschuh-Shop
+
+tag addr:housename=Flughafen Tempelhof
+inamec Traumtänzer
+# Shop in der Tanzschule, Mo 16-18 So 10-14
+
+tag shop=shoes
+inamec Tanzschuhe und Meer
+# Öffnungszeiten nach Vereinbarung
+
+tag shop=shoes
+inamec Britta
