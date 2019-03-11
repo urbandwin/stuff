@@ -1,3 +1,4 @@
 todo.md				todo
 aehnliche-apps.md		similar-apps
 datenquellen.md			datenquellen
+salsa.md            salsa-infos
