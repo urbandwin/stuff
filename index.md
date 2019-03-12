@@ -1,18 +1,18 @@
-# Index
+# GitHub index
 
 Content from [urbandwin/stuff](https://github.com/urbandwin/stuff)
 on GitHub.
 
 ## Markdown pages
 
-/todo
-/similar-apps
-/datenquellen
-/salsa-infos
+* [Todo](/todo)
+* [Similar apps](/similar-apps)
+* [Datenquellen](/datenquellen)
+* [Salsa infos](/salsa-infos)
 
 ## OpenStreetMap lists
 
-/stuff/dance-schools
-/stuff/dance-shoes
-/stuff/salsa-clubs
-/stuff/zerowaste
+* [dance-schools](/stuff/dance-schools)
+* [dance-shoes](/stuff/dance-shoes)
+* [salsa-clubs](/stuff/salsa-clubs)
+* [zero-waste](/stuff/zero-waste)
