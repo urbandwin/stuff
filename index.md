@@ -51,3 +51,4 @@ on GitHub.
 * [Gründerszene](https://www.gruenderszene.de/events/suche/Berlin)
 * [Berlin Partner](https://www.berlin-partner.de/infothek/veranstaltungen/)
 * [Internet Governance Forum](https://www.intgovforum-deutschland.org) jährlich
+* [LiMA](https://www.linkemedienakademie.de/lima-termine/) jährlich
