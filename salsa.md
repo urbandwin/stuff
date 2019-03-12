@@ -1,7 +1,7 @@
 ## Kurse, Unterricht, Workshops
-* http://www.la-candela-salsa.de/
-* https://bailar-casino-berlin.business.site
-* https://www.die-mobile-tanzschule.de
+* <http://www.la-candela-salsa.de>
+* <https://bailar-casino-berlin.business.sit>e
+* <https://www.die-mobile-tanzschule.de>
 * FU Hochschulsport
 * HU Hochschulsport
 * TU Hochschulsport
