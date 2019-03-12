@@ -25,3 +25,9 @@ on GitHub.
 * [Märkische Kiste](https://www.maerkischekiste.de)
 * [Brodowin](https://www.brodowin.de)
 * [Landkorb](https://www.landkorb.de/)
+
+## Co-Working
+* [Results for Berlin](https://www.coworker.com/search/berlin/germany) on [coworker.com](https://www.coworker.com/)
+* [Results for Berlin](https://coworkingguide.de/coworking-berlin/) on [coworkingguide.de](https://coworkingguide.de/)
+* A [curated list](https://thespaces.com/best-berlin-coworking-spaces/) on [thespaces.com](https://thespaces.com/)
+* A [curated list](https://mitvergnuegen.com/2018/11-schoene-coworking-spaces-in-berlin) on [mitvergnuegen.com](https://mitvergnuegen.com/)
