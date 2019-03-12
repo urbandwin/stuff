@@ -16,3 +16,6 @@ on GitHub.
 * [dance-shoes](/stuff/dance-shoes)
 * [salsa-clubs](/stuff/salsa-clubs)
 * [zero-waste](/stuff/zero-waste)
+
+## Misc links
+* [Hackerspaces auf dem HackerspaceWiki](https://wiki.hackerspaces.org/Berlin)
