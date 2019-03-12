@@ -9,6 +9,7 @@
 * Accounts / login
     * for personalized content (favorite stations, lists of things, bookmarks, etc.)
 * compare data sources from osm vs other source (vegan maps)
+* special search for OSM tags
 
 ## Things along
 
