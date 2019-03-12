@@ -45,3 +45,9 @@ on GitHub.
 * [Telefonica Basecamp](https://basecamp.telefonica.de/kalender/)
 * [Bundesanstalt Politische Bildung](http://www.bpb.de/veranstaltungen) deutschlandweite Veranstaltungen, nach Berlin oder PLZ 1 suchen
 * [HiiG](https://www.hiig.de/en/events/)
+* [Global Digital Woman](https://global-digital-women.com/termine/) auch in anderen Städten
+* [Innovationspreis BB](https://www.innovationspreis.de/) jährlich
+* [Inforadio](https://www.inforadio.de/veranstaltungen/inforadio_veranstaltungen.html) auch Soup&Science
+* [Gründerszene](https://www.gruenderszene.de/events/suche/Berlin)
+* [Berlin Partner](https://www.berlin-partner.de/infothek/veranstaltungen/)
+* [Internet Governance Forum](https://www.intgovforum-deutschland.org) jährlich
