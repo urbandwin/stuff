@@ -20,6 +20,7 @@
 * Show geographical lines with things along on map
 * Show food stuff that is open now
 * Show piece of map from each POI (beim Mauszeiger drüberhalten)
+* Bezeichnungen der Geldautomaten korrigieren
 
 ## OpenStreetMap
 
