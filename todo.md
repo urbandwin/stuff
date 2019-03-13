@@ -21,6 +21,7 @@
 * Show food stuff that is open now
 * Show piece of map from each POI (beim Mauszeiger drüberhalten)
 * Bezeichnungen der Geldautomaten korrigieren
+* "show all" bei click auf Station
 
 ## OpenStreetMap
 
