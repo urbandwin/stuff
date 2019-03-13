@@ -22,6 +22,7 @@
 * Show piece of map from each POI (beim Mauszeiger drüberhalten)
 * Bezeichnungen der Geldautomaten korrigieren
 * "show all" bei click auf Station
+* nicht Node als Überschrift der Kartenübersicht, sondern Kategoriename oder Objektname
 
 ## OpenStreetMap
 
