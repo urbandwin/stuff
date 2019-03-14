@@ -8,6 +8,7 @@
 * http://4water.org/berlin/salsa/de/
 * http://salsaunicorns.de/ Salsa colombiana
 * [Urban Sports Club](https://urbansportsclub.com/sports/salsa/berlin)
+* https://www.rimoso.de/ auch Rumba und Afro
 
 ## Videos und Figuren
 * http://www.salsalust.com/ Salsa-Figuren mit Videos
