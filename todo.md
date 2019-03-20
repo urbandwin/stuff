@@ -32,7 +32,8 @@
 * There's a Metro in Berlin with shop=wholesale
 * Add link to this somewhere:
   [https://wiki.openstreetmap.org/wiki/DE:Unternehmensketten](https://wiki.openstreetmap.org/wiki/DE:Unternehmensketten)
-* Add links to amenity=doctors, amenity=dentist and office=lawyer
+* Add links to [amenity=doctors](/tag/amenity/doctors),
+  [amenity=dentist](/tag/amenity/dentist) and [office=lawyer](/tag/office/lawyer)
 
 ### Search
 
