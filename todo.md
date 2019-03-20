@@ -76,3 +76,5 @@
 * Jobs. StackOverflow Jobs
 * Short term accomodation. Airbnb, Wimdu etc, Booking.com, HRS, etc.
 * Data from [luftdaten.info](https://luftdaten.info/)
+* Search for books in VOEBB, possibly using
+  [opacapp/opacclient](https://github.com/opacapp/opacclient)
