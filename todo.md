@@ -34,6 +34,7 @@
   [https://wiki.openstreetmap.org/wiki/DE:Unternehmensketten](https://wiki.openstreetmap.org/wiki/DE:Unternehmensketten)
 * Add links to [amenity=doctors](/tag/amenity/doctors),
   [amenity=dentist](/tag/amenity/dentist) and [office=lawyer](/tag/office/lawyer)
+  and assess data coverage using a different source of information.
 
 ### Search
 
