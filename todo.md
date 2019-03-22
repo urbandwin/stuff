@@ -41,23 +41,23 @@
 * Street search
 * Key-Histogram and Tag-Histogram based on search results
 
-### Categories
+### Things / Categories
 
-* [Supermärkte](/things/supermarkets)
-* [Drogerien](/things/drogerien)
 * Einkaufsmöglichkeiten / Einzelhandel
-* [Geldautomaten](/things/atms) / [Banken](/things/banks)
-* [Bibliotheken](/things/libraries)
-* Schwimmbäder / Badestellen / Freibäder
-* [Museen](/things/museums)
-* Eisbahnen
-* [Baumärkte](/things/baumärkte)
-
-### Standardisierte Sachen
-
-* [Apotheken](/tag/amenity/pharmacy)
-* [Bäckereien](/tag/shop/bakery)
 * Fashion chains: H&M's, C&A's etc.
+* Schwimmbäder / Badestellen / Freibäder
+* Eisbahnen
+
+#### Done
+
+[Supermärkte](/things/supermarkets),
+[Drogerien](/things/drogerien),
+[Geldautomaten](/things/atms) / [Banken](/things/banks),
+[Bibliotheken](/things/libraries),
+[Museen](/things/museums),
+[Baumärkte](/things/baumärkte),
+[Apotheken](/things/pharmacies),
+[Bäckereien](/things/bakeries)
 
 ## Other data sources
 
