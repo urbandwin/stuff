@@ -77,6 +77,7 @@
 * Flatshares. wg-gesucht, wgcompany
 * Jobs. StackOverflow Jobs
 * Short term accomodation. Airbnb, Wimdu etc, Booking.com, HRS, etc.
-* Data from [luftdaten.info](https://luftdaten.info/)
+* Data from
+  [luftdaten.info](http://maps.luftdaten.info/#11/52.5227/13.4102)
 * Search for books in VOEBB, possibly using
   [opacapp/opacclient](https://github.com/opacapp/opacclient)
