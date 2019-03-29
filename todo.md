@@ -2,7 +2,8 @@
 
 ## Misc
 
-* Implement Bangs like in DuckDuckGo
+* ~~Implement Bangs like in DuckDuckGo~~ Done, try d! for DuckDuckGo, g! for Google, w! for Wikipedia
+  or wde! for German Wikipedia
 * Admin page
     * Tools for updating data from [[@github(urbandwin, stuff)]]
       (kind of done via refresh page)
