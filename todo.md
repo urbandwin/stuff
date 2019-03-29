@@ -2,6 +2,7 @@
 
 ## Misc
 
+* Implement Bangs like in DuckDuckGo
 * Admin page
     * Tools for updating data from [[@github(urbandwin, stuff)]]
       (kind of done via refresh page)
