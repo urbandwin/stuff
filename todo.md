@@ -61,6 +61,13 @@
 [Apotheken](/things/pharmacies),
 [Bäckereien](/things/bakeries)
 
+### Restaurants / Fast food
+
+* Make discoverable using certain filters
+    * Using [cuisine](/openstreetmap/key/cuisine)
+    * Using quarters als filters
+    * Within distance of something else
+
 ## Other data sources
 
 * Alles vom
