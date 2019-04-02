@@ -77,7 +77,10 @@
   [derhuerst/vbb-common-places](https://github.com/derhuerst/vbb-common-places)
 * Other additional data listed here:
   [derhuerst/vbb-modules](https://github.com/derhuerst/vbb-modules),
-  escpecially station photos, tile patterns, change-positions
+  escpecially:
+    * station photos
+    * tile patterns (see [basic integration](/bvg/station/900000079221))
+    * change-positions ([partially implemented](/bvg/station/900000079221))
 * Concert info. Songkick, Eventim, Ticketmaster?
 
 ## Other stuff to integrate
