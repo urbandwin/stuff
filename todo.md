@@ -18,6 +18,7 @@
 
 * Make distance configurable
 * Add more object categories (Imbiss, Restaurant)
+* Any set of OSM objects (identified by tag etc.) along lines
 * Add bus and tram routes
 * Flat street view with things along it
 * Show geographical lines with things along on map
