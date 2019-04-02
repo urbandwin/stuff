@@ -33,6 +33,7 @@
 
 ### Misc
 
+* Update data minutely
 * There's a Metro in Berlin with shop=wholesale
 * Add link to this somewhere:
   [https://wiki.openstreetmap.org/wiki/DE:Unternehmensketten](https://wiki.openstreetmap.org/wiki/DE:Unternehmensketten)
