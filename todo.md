@@ -96,3 +96,5 @@
   [luftdaten.info](http://maps.luftdaten.info/#11/52.5227/13.4102)
 * Search for books in VOEBB, possibly using
   [opacapp/opacclient](https://github.com/opacapp/opacclient)
+* [Mapnificent](https://www.mapnificent.net):
+  [example](https://www.mapnificent.net/berlin/#11/52.4757/13.3312/900/52.4141/13.2548/900/52.4678/13.3173/900/52.4662/13.4268/900/52.5194/13.3883)
