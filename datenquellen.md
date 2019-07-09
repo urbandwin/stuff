@@ -33,7 +33,7 @@ Davon Nachbarschaftsnetzwerke:
 ## Konzerte / Tickets
 * [Eventim](https://www.eventim.de)
 * [Songkick](https://www.songkick.com)
-* [Ticketmaster](https://www.ticketmaster.de) auch Freizeit, Sport, Ausstellungen etc
+* [Ticketmaster](https://www.ticketmaster.de) auch Freizeit, Sport, Ausstellungen etc.. Afiliate über [impact](https://app.impact.com/campaign-mediapartner-signup/Ticketmaster-Germany.brand?execution=e1s1)
 * [JugendKulturService](https://jugendkulturservice.de/de/konzerte/) (Berlin) auch für Kino + eigener Ticketshop
 * [Myticket](https://www.myticket.de)
 * [KoKa36](https://www.koka36.de/) (mostly Berlin) auch tickets für Shows und Zirkus
