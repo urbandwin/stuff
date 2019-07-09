@@ -38,10 +38,10 @@ Davon Nachbarschaftsnetzwerke:
 * [Myticket](https://www.myticket.de)
 * [KoKa36](https://www.koka36.de/) (mostly Berlin) auch tickets für Shows und Zirkus
 * [MusikExpress](http://musikexpress.adticket.de/) Musikmagazin von Axel Springer Mediahouse, Ticketverkauf betrieben durch Adticket
-* [ADticket](https://www.adticket.de/) auch Sport und Tourismus
+* [ADticket](https://www.adticket.de/) auch Sport und Tourismus. Afiliate über [afilinet](https://modules.affili.net/programs/de/details/13/16482)
 * [Zart agency](https://zart.tickettoaster.de/impressum) Agentur aus Berlin, aber Konzerte bundesweit, Tickets über die Lösung für White label Ticketing Plattformen von [Tickettoaster](https://www.tickettoaster.de)
 * [New Berlin Konzerte Events](https://berlinkonzerte.de/) Tickets über KoKa 36
-* [HEKTICKET](https://www.hekticket.de) Sitz in Berlin, bundesweites Ticketangebot. [Tip Berlin](https://www.hekticket.de/tip/.bin/index.cgi) Tickets sind powered by HEKTicket
+* [HEKTICKET](https://www.hekticket.de) Sitz in Berlin, bundesweites Ticketangebot. [Tip Berlin](https://www.hekticket.de/tip/.bin/index.cgi) Tickets sind powered by HEKTicket. Afiliate über awin
 
 ## Open Stage / Mic (Berlin)
 * [Berliner Sessions](https://berlinersessions.de/) keine Gesamtkarte, nur googlemap für jede Veranstaltung, keine Uhrzeit
