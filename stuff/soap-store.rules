@@ -1,2 +1,21 @@
 tag shop=farm
 inamec Späth'scher Hofladen
+
+tag shop=cosmetics
+inamec belladonna
+
+tag shop=convenience
+inamec sache
+
+tag shop=beauty
+inamec calla
+
+tag shop=department_store
+inamec natur
+
+tag shop=gift
+inamec lieblings
+
+tag shop = supermarket
+inamec original
+
