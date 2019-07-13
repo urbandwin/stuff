@@ -5,7 +5,7 @@ tag shop=cosmetics
 inamec belladonna
 
 tag shop=convenience
-inamec sache
+inamec der sache
 
 tag shop=beauty
 inamec calla
@@ -14,7 +14,7 @@ tag shop=department_store
 inamec natur
 
 tag shop=gift
-inamec lieblings
+inamec lieblingsd
 
 tag shop = supermarket
 inamec original
