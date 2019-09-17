@@ -36,3 +36,6 @@ inamec sauberk
 
 tag shop=chemist
 inamec amazin
+
+tag addr:housenumber=103
+tag addr:street=Schloßstraße
