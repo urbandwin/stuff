@@ -16,24 +16,15 @@
 
 ## Things along
 
-* Make distance configurable
-* Add more object categories (Imbiss, Restaurant)
 * Any set of OSM objects (identified by tag etc.) along lines
-* Add bus and tram routes
-* Flat street view with things along it
-* Show geographical lines with things along on map
 * Show food stuff that is open now
 * Show piece of map from each POI (beim Mauszeiger drüberhalten)
-* Bezeichnungen der Geldautomaten korrigieren
 * "show all" bei click auf Station
-* ~~nicht Node als Überschrift der Kartenübersicht, sondern Kategoriename oder Objektname~~
-  Jetzt wird der Objektname angezeigt
 
 ## OpenStreetMap
 
 ### Misc
 
-* Update data minutely
 * There's a Metro in Berlin with shop=wholesale
 * Add link to this somewhere:
   [https://wiki.openstreetmap.org/wiki/DE:Unternehmensketten](https://wiki.openstreetmap.org/wiki/DE:Unternehmensketten)
