@@ -1,6 +1,10 @@
 Mocita
+tag amenity=school
+inamec cumbancha
 
 Val
+tag addr:street=Gustav-Müller-Straße
+tag addr:housenumber=29
 
 Helen
 
