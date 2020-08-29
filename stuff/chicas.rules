@@ -7,5 +7,10 @@ tag addr:street=Gustav-Müller-Straße
 tag addr:housenumber=29
 
 Helen
+tag addr:street=Müllerstraße
+tag addr:housenumber=62
 
 Saski
+tag addr:street=Prenzlauer Berg
+tag addr:housenumber=18
+
