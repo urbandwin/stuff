@@ -1,6 +1,7 @@
 Mocita
-tag amenity=school
-inamec cumbancha
+tag addr:street=Schillerstraße
+tag addr:housenumber=
+tag addr:postcode=03149
 
 Val
 tag addr:street=Gustav-Müller-Straße
