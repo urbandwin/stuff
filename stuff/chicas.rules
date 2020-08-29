@@ -9,6 +9,7 @@ tag addr:housenumber=29
 Helen
 tag addr:street=Müllerstraße
 tag addr:housenumber=62
+tag addr:postcode=13349
 
 Saski
 tag addr:street=Prenzlauer Berg
