@@ -17,5 +17,5 @@ tag addr:housenumber=18
 
 label Christin
 tag addr:street=Bahnhofstraße
-tag addr:housenumber=3a
+tag addr:housenumber=3
 tag addr:postcode=14612
