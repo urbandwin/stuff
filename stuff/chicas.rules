@@ -1,17 +1,17 @@
-Mocita
+label Mocita
 tag addr:street=Schillerstraße
 tag addr:postcode=03149
 
-Val
+label Val
 tag addr:street=Gustav-Müller-Straße
 tag addr:housenumber=29
 
-Helen
+label Helen
 tag addr:street=Müllerstraße
 tag addr:housenumber=62
 tag addr:postcode=13349
 
-Saski
+label Saski
 tag addr:street=Prenzlauer Berg
 tag addr:housenumber=18
 
