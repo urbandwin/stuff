@@ -19,4 +19,4 @@ label Christin
 tag addr:street=Bahnhofstraße
 tag addr:housenumber=3
 tag addr:postcode=14612
-name=Trend 2000
+tag name=Trend 2000
