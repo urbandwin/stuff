@@ -15,3 +15,6 @@ label Saski
 tag addr:street=Prenzlauer Berg
 tag addr:housenumber=18
 
+label Christin
+tag addr:street=Bahnhofstraße
+tag addr:housenumber=3a
