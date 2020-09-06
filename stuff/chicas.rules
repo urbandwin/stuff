@@ -20,3 +20,13 @@ tag addr:street=Bahnhofstraße
 tag addr:housenumber=3
 tag addr:postcode=14612
 tag addr:country=DE
+
+label Verena
+tag addr:street=Hohen Neuendorfer Straße
+tag addr:housenumber=41
+
+label Katja
+tag addr:street=Weidenweg
+tag addr:housenumber=77
+
+
